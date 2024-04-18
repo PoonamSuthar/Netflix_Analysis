@@ -40,8 +40,6 @@ Before conducting the analysis, the dataset was cleaned and prepared. This invol
 ## Conclusion
 Based on the analysis of the Netflix dataset, several key findings emerged. The majority of the content on Netflix consists of movies, with a wide range of release years and genres. Viewers have access to content of varying durations, and the ratings indicate a generally positive reception of the content. These insights can be valuable for understanding audience preferences and shaping content strategies on the Netflix platform.
 
-![image](https://github.com/PoonamSuthar/Netflix_Analysis/assets/118159315/586848b3-2b50-40ed-8a08-ec6d0d63d96d)
-![image](https://github.com/PoonamSuthar/Netflix_Analysis/assets/118159315/a9a28e86-e505-4e18-9523-692125449eed)
-![image](https://github.com/PoonamSuthar/Netflix_Analysis/assets/118159315/77850dfa-dbc3-4381-8e41-c625e6f3fbdf)
-
+![323728782-a9a28e86-e505-4e18-9523-692125449eed](https://github.com/PoonamSuthar/Netflix_Analysis/assets/118159315/1d65f89c-415a-4c42-8dae-d62e5dc68474)
+![323729295-77850dfa-dbc3-4381-8e41-c625e6f3fbdf](https://github.com/PoonamSuthar/Netflix_Analysis/assets/118159315/33cc1a42-6caa-4e9b-96a3-825651d6e48a)
 
